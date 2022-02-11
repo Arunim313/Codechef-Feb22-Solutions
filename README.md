@@ -9,12 +9,12 @@ Problems - BADMINTON, AVOIDCONTACT, EVMHACK
 Date - 4/2/22 - 7/2/22
 Contest Name - February Long 2022-I
 Contest Code - FEB221
-Problems - 
+Problems - CHEFBARBER, EUREKA
 
 Date - 9/2/22
 Contest Name - Codechef Starters 25
 Contest Code - START25
-Problems - FRUITCHAAT
+Problems - FRUITCHAAT, DATATYPE
 
 Date - 11/2/22 - 14/2/22
 Contest Name - February Lond 2022-II
