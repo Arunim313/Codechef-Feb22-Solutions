@@ -24,7 +24,7 @@ Problems - HELIUM3, WCC
 Date - 16/2/22
 Contest Name - Codechef Starters 26
 Constest Code - START26
-Problems - NOTEBOOK, TRAVELFAST, VALENTINE, HOSTELROOM
+Problems - NOTEBOOK, TRAVELFAST, VALENTINE, HOSTELROOM, SMOKE
 
 Date - 20/2/22
 Contest Name - February Cook-off
