@@ -29,7 +29,7 @@ Problems - NOTEBOOK, TRAVELFAST, VALENTINE, HOSTELROOM
 Date - 21/2/22
 Contest Name - February Cook-off
 Contest Code - COOK138
-Problems - CREDITS, BOTTOM, 
+Problems - CREDITS, BOTTOM, MAYOR_PARTY
 
 Date - __/2/22
 Contest Name - 
