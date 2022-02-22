@@ -26,10 +26,10 @@ Contest Name - Codechef Starters 26
 Constest Code - START26
 Problems - NOTEBOOK, TRAVELFAST, VALENTINE, HOSTELROOM
 
-Date - 20/2/22
+Date - 21/2/22
 Contest Name - February Cook-off
-Contest Code - 
-Problems - 
+Contest Code - COOK138
+Problems - CREDITS, BOTTOM, 
 
 Date - __/2/22
 Contest Name - 
