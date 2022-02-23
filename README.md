@@ -34,4 +34,4 @@ Problems - CREDITS, BOTTOM, MAYOR_PARTY
 Date - 23/2/22
 Contest Name - Codechef Starters 27
 Contest Code - START27
-Problems - BLACKJACK, SALE,PRODUCT, SHOPCHANGE, POLYBAG
+Problems - BLACKJACK, SALE, SHOPCHANGE, POLYBAG
