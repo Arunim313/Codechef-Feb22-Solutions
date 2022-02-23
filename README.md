@@ -31,7 +31,7 @@ Contest Name - February Cook-off
 Contest Code - COOK138
 Problems - CREDITS, BOTTOM, MAYOR_PARTY
 
-Date - __/2/22
-Contest Name - 
-Contest Code - 
-Problems - 
+Date - 23/2/22
+Contest Name - Codechef Starters 27
+Contest Code - START27
+Problems - BLACKJACK, SALE,PRODUCT, SHOPCHANGE, POLYBAG
