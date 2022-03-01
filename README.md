@@ -39,4 +39,4 @@ Problems - BLACKJACK, SALE, SHOPCHANGE, POLYBAG
 Date - 26/2/22
 Contest Name - February Lunchtime 2022
 Contest Code - 
-Problems - 
+Problems - BATTERY, NIBBLE, CHESSDIST, MOVIE2X
